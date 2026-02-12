@@ -1,0 +1,5 @@
+﻿district_id,year,ballot_code,actor_type,party_id,party_name,votes,rank,region,province,district_number,district_label,voters_used,vote_share,party_id_str,key,2566_winner
+LRI_4,2569,CONS,candidate,34.0,เพื่อไทย,47865,1,ภาคกลาง,ลพบุรี,4,ลพบุรี-4,109708,0.436294527,34,ลพบุรี_4,ภูมิใจไทย
+KKN_4,2569,CONS,candidate,34.0,เพื่อไทย,38701,1,ภาคอีสาน,ขอนแก่น,4,ขอนแก่น-4,92289,0.419345751,34,ขอนแก่น_4,ภูมิใจไทย
+KSN_4,2569,CONS,candidate,34.0,เพื่อไทย,34051,1,ภาคอีสาน,กาฬสินธุ์,4,กาฬสินธุ์-4,82244,0.414024123,34,กาฬสินธุ์_4,ภูมิใจไทย
+NPM_4,2569,CONS,candidate,34.0,เพื่อไทย,38829,1,ภาคอีสาน,นครพนม,4,นครพนม-4,91103,0.426209894,34,นครพนม_4,ภูมิใจไทย

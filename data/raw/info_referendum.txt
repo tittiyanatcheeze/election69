@@ -1,0 +1,2578 @@
+{
+  "questions_info": [
+    {
+      "title": "",
+      "desc": null,
+      "questions": [
+        {
+          "referendum_id": "c7c2a06c-25e6-4b06-9f17-0e6ca4000f55",
+          "question": "ท่านเห็นชอบว่าสมควรมีรัฐธรรมนูญฉบับใหม่หรือไม่"
+        }
+      ]
+    }
+  ],
+  "answers_info": [
+    {
+      "answer_key": "yes",
+      "answer_value": "เห็นชอบ"
+    },
+    {
+      "answer_key": "no",
+      "answer_value": "ไม่เห็นชอบ"
+    },
+    {
+      "answer_key": "abstained",
+      "answer_value": "ไม่แสดงความคิดเห็น"
+    }
+  ],
+  "general_info": {
+    "total_registered_vote": 52922923,
+    "total_vote_stations": 100531,
+    "province": [
+      {
+        "prov_id": "BKK",
+        "total_registered_vote": 4502458,
+        "total_vote_stations": 6691,
+        "constituencies": [
+          {
+            "cons_id": "BKK_0",
+            "total_registered_vote": null,
+            "total_vote_stations": 95
+          },
+          {
+            "cons_id": "BKK_1",
+            "total_registered_vote": 130423,
+            "total_vote_stations": 237
+          },
+          {
+            "cons_id": "BKK_2",
+            "total_registered_vote": 136481,
+            "total_vote_stations": 230
+          },
+          {
+            "cons_id": "BKK_3",
+            "total_registered_vote": 122578,
+            "total_vote_stations": 215
+          },
+          {
+            "cons_id": "BKK_4",
+            "total_registered_vote": 129453,
+            "total_vote_stations": 195
+          },
+          {
+            "cons_id": "BKK_5",
+            "total_registered_vote": 134016,
+            "total_vote_stations": 215
+          },
+          {
+            "cons_id": "BKK_6",
+            "total_registered_vote": 143144,
+            "total_vote_stations": 218
+          },
+          {
+            "cons_id": "BKK_7",
+            "total_registered_vote": 138276,
+            "total_vote_stations": 210
+          },
+          {
+            "cons_id": "BKK_8",
+            "total_registered_vote": 144067,
+            "total_vote_stations": 202
+          },
+          {
+            "cons_id": "BKK_9",
+            "total_registered_vote": 144296,
+            "total_vote_stations": 197
+          },
+          {
+            "cons_id": "BKK_10",
+            "total_registered_vote": 138687,
+            "total_vote_stations": 186
+          },
+          {
+            "cons_id": "BKK_11",
+            "total_registered_vote": 137319,
+            "total_vote_stations": 193
+          },
+          {
+            "cons_id": "BKK_12",
+            "total_registered_vote": 143148,
+            "total_vote_stations": 189
+          },
+          {
+            "cons_id": "BKK_13",
+            "total_registered_vote": 131707,
+            "total_vote_stations": 191
+          },
+          {
+            "cons_id": "BKK_14",
+            "total_registered_vote": 140341,
+            "total_vote_stations": 195
+          },
+          {
+            "cons_id": "BKK_15",
+            "total_registered_vote": 127758,
+            "total_vote_stations": 183
+          },
+          {
+            "cons_id": "BKK_16",
+            "total_registered_vote": 138261,
+            "total_vote_stations": 177
+          },
+          {
+            "cons_id": "BKK_17",
+            "total_registered_vote": 120704,
+            "total_vote_stations": 175
+          },
+          {
+            "cons_id": "BKK_18",
+            "total_registered_vote": 122857,
+            "total_vote_stations": 168
+          },
+          {
+            "cons_id": "BKK_19",
+            "total_registered_vote": 135594,
+            "total_vote_stations": 187
+          },
+          {
+            "cons_id": "BKK_20",
+            "total_registered_vote": 126504,
+            "total_vote_stations": 168
+          },
+          {
+            "cons_id": "BKK_21",
+            "total_registered_vote": 136677,
+            "total_vote_stations": 181
+          },
+          {
+            "cons_id": "BKK_22",
+            "total_registered_vote": 133669,
+            "total_vote_stations": 201
+          },
+          {
+            "cons_id": "BKK_23",
+            "total_registered_vote": 144136,
+            "total_vote_stations": 230
+          },
+          {
+            "cons_id": "BKK_24",
+            "total_registered_vote": 142161,
+            "total_vote_stations": 231
+          },
+          {
+            "cons_id": "BKK_25",
+            "total_registered_vote": 126847,
+            "total_vote_stations": 172
+          },
+          {
+            "cons_id": "BKK_26",
+            "total_registered_vote": 139473,
+            "total_vote_stations": 206
+          },
+          {
+            "cons_id": "BKK_27",
+            "total_registered_vote": 134519,
+            "total_vote_stations": 174
+          },
+          {
+            "cons_id": "BKK_28",
+            "total_registered_vote": 139847,
+            "total_vote_stations": 189
+          },
+          {
+            "cons_id": "BKK_29",
+            "total_registered_vote": 144498,
+            "total_vote_stations": 197
+          },
+          {
+            "cons_id": "BKK_30",
+            "total_registered_vote": 143904,
+            "total_vote_stations": 192
+          },
+          {
+            "cons_id": "BKK_31",
+            "total_registered_vote": 143811,
+            "total_vote_stations": 239
+          },
+          {
+            "cons_id": "BKK_32",
+            "total_registered_vote": 139079,
+            "total_vote_stations": 226
+          },
+          {
+            "cons_id": "BKK_33",
+            "total_registered_vote": 148223,
+            "total_vote_stations": 227
+          }
+        ]
+      },
+      {
+        "prov_id": "PTN",
+        "total_registered_vote": 525674,
+        "total_vote_stations": 972,
+        "constituencies": [
+          {
+            "cons_id": "PTN_2",
+            "total_registered_vote": 110681,
+            "total_vote_stations": 213
+          },
+          {
+            "cons_id": "PTN_1",
+            "total_registered_vote": 95605,
+            "total_vote_stations": 157
+          },
+          {
+            "cons_id": "PTN_3",
+            "total_registered_vote": 99188,
+            "total_vote_stations": 171
+          },
+          {
+            "cons_id": "PTN_4",
+            "total_registered_vote": 110256,
+            "total_vote_stations": 222
+          },
+          {
+            "cons_id": "PTN_5",
+            "total_registered_vote": 109944,
+            "total_vote_stations": 209
+          }
+        ]
+      },
+      {
+        "prov_id": "SPK",
+        "total_registered_vote": 1126420,
+        "total_vote_stations": 1755,
+        "constituencies": [
+          {
+            "cons_id": "SPK_1",
+            "total_registered_vote": 130808,
+            "total_vote_stations": 206
+          },
+          {
+            "cons_id": "SPK_2",
+            "total_registered_vote": 129020,
+            "total_vote_stations": 199
+          },
+          {
+            "cons_id": "SPK_3",
+            "total_registered_vote": 141171,
+            "total_vote_stations": 209
+          },
+          {
+            "cons_id": "SPK_4",
+            "total_registered_vote": 136475,
+            "total_vote_stations": 177
+          },
+          {
+            "cons_id": "SPK_5",
+            "total_registered_vote": 158700,
+            "total_vote_stations": 228
+          },
+          {
+            "cons_id": "SPK_6",
+            "total_registered_vote": 129989,
+            "total_vote_stations": 259
+          },
+          {
+            "cons_id": "SPK_7",
+            "total_registered_vote": 149428,
+            "total_vote_stations": 227
+          },
+          {
+            "cons_id": "SPK_8",
+            "total_registered_vote": 150829,
+            "total_vote_stations": 250
+          }
+        ]
+      },
+      {
+        "prov_id": "NBI",
+        "total_registered_vote": 1094383,
+        "total_vote_stations": 1543,
+        "constituencies": [
+          {
+            "cons_id": "NBI_1",
+            "total_registered_vote": 140032,
+            "total_vote_stations": 174
+          },
+          {
+            "cons_id": "NBI_2",
+            "total_registered_vote": 124608,
+            "total_vote_stations": 173
+          },
+          {
+            "cons_id": "NBI_3",
+            "total_registered_vote": 140981,
+            "total_vote_stations": 203
+          },
+          {
+            "cons_id": "NBI_4",
+            "total_registered_vote": 127356,
+            "total_vote_stations": 175
+          },
+          {
+            "cons_id": "NBI_5",
+            "total_registered_vote": 137859,
+            "total_vote_stations": 196
+          },
+          {
+            "cons_id": "NBI_6",
+            "total_registered_vote": 144086,
+            "total_vote_stations": 211
+          },
+          {
+            "cons_id": "NBI_7",
+            "total_registered_vote": 142478,
+            "total_vote_stations": 208
+          },
+          {
+            "cons_id": "NBI_8",
+            "total_registered_vote": 136983,
+            "total_vote_stations": 203
+          }
+        ]
+      },
+      {
+        "prov_id": "PTE",
+        "total_registered_vote": 1012760,
+        "total_vote_stations": 1477,
+        "constituencies": [
+          {
+            "cons_id": "PTE_1",
+            "total_registered_vote": 130700,
+            "total_vote_stations": 200
+          },
+          {
+            "cons_id": "PTE_2",
+            "total_registered_vote": 128901,
+            "total_vote_stations": 193
+          },
+          {
+            "cons_id": "PTE_3",
+            "total_registered_vote": 131743,
+            "total_vote_stations": 178
+          },
+          {
+            "cons_id": "PTE_4",
+            "total_registered_vote": 132037,
+            "total_vote_stations": 176
+          },
+          {
+            "cons_id": "PTE_5",
+            "total_registered_vote": 122740,
+            "total_vote_stations": 210
+          },
+          {
+            "cons_id": "PTE_6",
+            "total_registered_vote": 122393,
+            "total_vote_stations": 151
+          },
+          {
+            "cons_id": "PTE_7",
+            "total_registered_vote": 121843,
+            "total_vote_stations": 184
+          },
+          {
+            "cons_id": "PTE_8",
+            "total_registered_vote": 122403,
+            "total_vote_stations": 185
+          }
+        ]
+      },
+      {
+        "prov_id": "AYA",
+        "total_registered_vote": 677848,
+        "total_vote_stations": 1150,
+        "constituencies": [
+          {
+            "cons_id": "AYA_1",
+            "total_registered_vote": 140188,
+            "total_vote_stations": 237
+          },
+          {
+            "cons_id": "AYA_2",
+            "total_registered_vote": 128589,
+            "total_vote_stations": 232
+          },
+          {
+            "cons_id": "AYA_3",
+            "total_registered_vote": 136493,
+            "total_vote_stations": 215
+          },
+          {
+            "cons_id": "AYA_4",
+            "total_registered_vote": 139523,
+            "total_vote_stations": 229
+          },
+          {
+            "cons_id": "AYA_5",
+            "total_registered_vote": 133055,
+            "total_vote_stations": 237
+          }
+        ]
+      },
+      {
+        "prov_id": "ATG",
+        "total_registered_vote": 224089,
+        "total_vote_stations": 501,
+        "constituencies": [
+          {
+            "cons_id": "ATG_1",
+            "total_registered_vote": 111666,
+            "total_vote_stations": 247
+          },
+          {
+            "cons_id": "ATG_2",
+            "total_registered_vote": 112423,
+            "total_vote_stations": 254
+          }
+        ]
+      },
+      {
+        "prov_id": "LRI",
+        "total_registered_vote": 596426,
+        "total_vote_stations": 1087,
+        "constituencies": [
+          {
+            "cons_id": "LRI_1",
+            "total_registered_vote": 151712,
+            "total_vote_stations": 257
+          },
+          {
+            "cons_id": "LRI_2",
+            "total_registered_vote": 149672,
+            "total_vote_stations": 266
+          },
+          {
+            "cons_id": "LRI_3",
+            "total_registered_vote": 145648,
+            "total_vote_stations": 285
+          },
+          {
+            "cons_id": "LRI_4",
+            "total_registered_vote": 149394,
+            "total_vote_stations": 279
+          }
+        ]
+      },
+      {
+        "prov_id": "SBR",
+        "total_registered_vote": 167173,
+        "total_vote_stations": 331,
+        "constituencies": [
+          {
+            "cons_id": "SBR_1",
+            "total_registered_vote": 167173,
+            "total_vote_stations": 331
+          }
+        ]
+      },
+      {
+        "prov_id": "CNT",
+        "total_registered_vote": 261579,
+        "total_vote_stations": 512,
+        "constituencies": [
+          {
+            "cons_id": "CNT_1",
+            "total_registered_vote": 131155,
+            "total_vote_stations": 252
+          },
+          {
+            "cons_id": "CNT_2",
+            "total_registered_vote": 130424,
+            "total_vote_stations": 260
+          }
+        ]
+      },
+      {
+        "prov_id": "SRI",
+        "total_registered_vote": 518984,
+        "total_vote_stations": 896,
+        "constituencies": [
+          {
+            "cons_id": "SRI_1",
+            "total_registered_vote": 128124,
+            "total_vote_stations": 216
+          },
+          {
+            "cons_id": "SRI_2",
+            "total_registered_vote": 136691,
+            "total_vote_stations": 242
+          },
+          {
+            "cons_id": "SRI_3",
+            "total_registered_vote": 125851,
+            "total_vote_stations": 206
+          },
+          {
+            "cons_id": "SRI_4",
+            "total_registered_vote": 128318,
+            "total_vote_stations": 232
+          }
+        ]
+      },
+      {
+        "prov_id": "CBI",
+        "total_registered_vote": 1294267,
+        "total_vote_stations": 1727,
+        "constituencies": [
+          {
+            "cons_id": "CBI_1",
+            "total_registered_vote": 133544,
+            "total_vote_stations": 170
+          },
+          {
+            "cons_id": "CBI_2",
+            "total_registered_vote": 113941,
+            "total_vote_stations": 131
+          },
+          {
+            "cons_id": "CBI_3",
+            "total_registered_vote": 127184,
+            "total_vote_stations": 177
+          },
+          {
+            "cons_id": "CBI_4",
+            "total_registered_vote": 120269,
+            "total_vote_stations": 181
+          },
+          {
+            "cons_id": "CBI_5",
+            "total_registered_vote": 134984,
+            "total_vote_stations": 215
+          },
+          {
+            "cons_id": "CBI_6",
+            "total_registered_vote": 138570,
+            "total_vote_stations": 175
+          },
+          {
+            "cons_id": "CBI_7",
+            "total_registered_vote": 127875,
+            "total_vote_stations": 161
+          },
+          {
+            "cons_id": "CBI_8",
+            "total_registered_vote": 140456,
+            "total_vote_stations": 179
+          },
+          {
+            "cons_id": "CBI_9",
+            "total_registered_vote": 122755,
+            "total_vote_stations": 163
+          },
+          {
+            "cons_id": "CBI_10",
+            "total_registered_vote": 134689,
+            "total_vote_stations": 175
+          }
+        ]
+      },
+      {
+        "prov_id": "RYG",
+        "total_registered_vote": 621808,
+        "total_vote_stations": 989,
+        "constituencies": [
+          {
+            "cons_id": "RYG_1",
+            "total_registered_vote": 121744,
+            "total_vote_stations": 177
+          },
+          {
+            "cons_id": "RYG_2",
+            "total_registered_vote": 116647,
+            "total_vote_stations": 199
+          },
+          {
+            "cons_id": "RYG_3",
+            "total_registered_vote": 124374,
+            "total_vote_stations": 243
+          },
+          {
+            "cons_id": "RYG_4",
+            "total_registered_vote": 129476,
+            "total_vote_stations": 194
+          },
+          {
+            "cons_id": "RYG_5",
+            "total_registered_vote": 129567,
+            "total_vote_stations": 176
+          }
+        ]
+      },
+      {
+        "prov_id": "CTI",
+        "total_registered_vote": 432792,
+        "total_vote_stations": 873,
+        "constituencies": [
+          {
+            "cons_id": "CTI_1",
+            "total_registered_vote": 148028,
+            "total_vote_stations": 293
+          },
+          {
+            "cons_id": "CTI_2",
+            "total_registered_vote": 142477,
+            "total_vote_stations": 286
+          },
+          {
+            "cons_id": "CTI_3",
+            "total_registered_vote": 142287,
+            "total_vote_stations": 294
+          }
+        ]
+      },
+      {
+        "prov_id": "TRT",
+        "total_registered_vote": 176920,
+        "total_vote_stations": 345,
+        "constituencies": [
+          {
+            "cons_id": "TRT_1",
+            "total_registered_vote": 176920,
+            "total_vote_stations": 345
+          }
+        ]
+      },
+      {
+        "prov_id": "CCO",
+        "total_registered_vote": 591982,
+        "total_vote_stations": 1043,
+        "constituencies": [
+          {
+            "cons_id": "CCO_1",
+            "total_registered_vote": 146573,
+            "total_vote_stations": 255
+          },
+          {
+            "cons_id": "CCO_2",
+            "total_registered_vote": 145059,
+            "total_vote_stations": 276
+          },
+          {
+            "cons_id": "CCO_3",
+            "total_registered_vote": 148423,
+            "total_vote_stations": 257
+          },
+          {
+            "cons_id": "CCO_4",
+            "total_registered_vote": 151927,
+            "total_vote_stations": 255
+          }
+        ]
+      },
+      {
+        "prov_id": "PRI",
+        "total_registered_vote": 403530,
+        "total_vote_stations": 793,
+        "constituencies": [
+          {
+            "cons_id": "PRI_1",
+            "total_registered_vote": 132597,
+            "total_vote_stations": 239
+          },
+          {
+            "cons_id": "PRI_2",
+            "total_registered_vote": 141803,
+            "total_vote_stations": 294
+          },
+          {
+            "cons_id": "PRI_3",
+            "total_registered_vote": 129130,
+            "total_vote_stations": 260
+          }
+        ]
+      },
+      {
+        "prov_id": "NYK",
+        "total_registered_vote": 212999,
+        "total_vote_stations": 461,
+        "constituencies": [
+          {
+            "cons_id": "NYK_1",
+            "total_registered_vote": 104054,
+            "total_vote_stations": 208
+          },
+          {
+            "cons_id": "NYK_2",
+            "total_registered_vote": 108945,
+            "total_vote_stations": 253
+          }
+        ]
+      },
+      {
+        "prov_id": "BRM",
+        "total_registered_vote": 1261622,
+        "total_vote_stations": 2738,
+        "constituencies": [
+          {
+            "cons_id": "BRM_4",
+            "total_registered_vote": 121519,
+            "total_vote_stations": 269
+          },
+          {
+            "cons_id": "BRM_1",
+            "total_registered_vote": 125325,
+            "total_vote_stations": 273
+          },
+          {
+            "cons_id": "BRM_2",
+            "total_registered_vote": 127640,
+            "total_vote_stations": 275
+          },
+          {
+            "cons_id": "BRM_3",
+            "total_registered_vote": 125637,
+            "total_vote_stations": 279
+          },
+          {
+            "cons_id": "BRM_5",
+            "total_registered_vote": 131438,
+            "total_vote_stations": 316
+          },
+          {
+            "cons_id": "BRM_6",
+            "total_registered_vote": 130776,
+            "total_vote_stations": 308
+          },
+          {
+            "cons_id": "BRM_7",
+            "total_registered_vote": 123023,
+            "total_vote_stations": 269
+          },
+          {
+            "cons_id": "BRM_8",
+            "total_registered_vote": 126975,
+            "total_vote_stations": 278
+          },
+          {
+            "cons_id": "BRM_9",
+            "total_registered_vote": 127988,
+            "total_vote_stations": 250
+          },
+          {
+            "cons_id": "BRM_10",
+            "total_registered_vote": 121301,
+            "total_vote_stations": 221
+          }
+        ]
+      },
+      {
+        "prov_id": "SKW",
+        "total_registered_vote": 443695,
+        "total_vote_stations": 895,
+        "constituencies": [
+          {
+            "cons_id": "SKW_1",
+            "total_registered_vote": 147502,
+            "total_vote_stations": 289
+          },
+          {
+            "cons_id": "SKW_2",
+            "total_registered_vote": 145146,
+            "total_vote_stations": 304
+          },
+          {
+            "cons_id": "SKW_3",
+            "total_registered_vote": 151047,
+            "total_vote_stations": 302
+          }
+        ]
+      },
+      {
+        "prov_id": "NMA",
+        "total_registered_vote": 2145255,
+        "total_vote_stations": 4589,
+        "constituencies": [
+          {
+            "cons_id": "NMA_1",
+            "total_registered_vote": 128667,
+            "total_vote_stations": 238
+          },
+          {
+            "cons_id": "NMA_2",
+            "total_registered_vote": 141222,
+            "total_vote_stations": 215
+          },
+          {
+            "cons_id": "NMA_3",
+            "total_registered_vote": 136549,
+            "total_vote_stations": 232
+          },
+          {
+            "cons_id": "NMA_4",
+            "total_registered_vote": 131758,
+            "total_vote_stations": 304
+          },
+          {
+            "cons_id": "NMA_5",
+            "total_registered_vote": 133508,
+            "total_vote_stations": 294
+          },
+          {
+            "cons_id": "NMA_6",
+            "total_registered_vote": 133507,
+            "total_vote_stations": 305
+          },
+          {
+            "cons_id": "NMA_7",
+            "total_registered_vote": 131810,
+            "total_vote_stations": 329
+          },
+          {
+            "cons_id": "NMA_8",
+            "total_registered_vote": 133816,
+            "total_vote_stations": 291
+          },
+          {
+            "cons_id": "NMA_9",
+            "total_registered_vote": 135762,
+            "total_vote_stations": 298
+          },
+          {
+            "cons_id": "NMA_10",
+            "total_registered_vote": 138144,
+            "total_vote_stations": 301
+          },
+          {
+            "cons_id": "NMA_11",
+            "total_registered_vote": 132460,
+            "total_vote_stations": 270
+          },
+          {
+            "cons_id": "NMA_12",
+            "total_registered_vote": 132505,
+            "total_vote_stations": 325
+          },
+          {
+            "cons_id": "NMA_13",
+            "total_registered_vote": 130106,
+            "total_vote_stations": 283
+          },
+          {
+            "cons_id": "NMA_14",
+            "total_registered_vote": 130825,
+            "total_vote_stations": 238
+          },
+          {
+            "cons_id": "NMA_15",
+            "total_registered_vote": 138615,
+            "total_vote_stations": 328
+          },
+          {
+            "cons_id": "NMA_16",
+            "total_registered_vote": 136001,
+            "total_vote_stations": 338
+          }
+        ]
+      },
+      {
+        "prov_id": "SRN",
+        "total_registered_vote": 1096279,
+        "total_vote_stations": 2267,
+        "constituencies": [
+          {
+            "cons_id": "SRN_1",
+            "total_registered_vote": 136098,
+            "total_vote_stations": 246
+          },
+          {
+            "cons_id": "SRN_2",
+            "total_registered_vote": 140119,
+            "total_vote_stations": 263
+          },
+          {
+            "cons_id": "SRN_3",
+            "total_registered_vote": 137394,
+            "total_vote_stations": 315
+          },
+          {
+            "cons_id": "SRN_4",
+            "total_registered_vote": 139651,
+            "total_vote_stations": 307
+          },
+          {
+            "cons_id": "SRN_5",
+            "total_registered_vote": 135554,
+            "total_vote_stations": 315
+          },
+          {
+            "cons_id": "SRN_6",
+            "total_registered_vote": 134172,
+            "total_vote_stations": 271
+          },
+          {
+            "cons_id": "SRN_7",
+            "total_registered_vote": 136448,
+            "total_vote_stations": 291
+          },
+          {
+            "cons_id": "SRN_8",
+            "total_registered_vote": 136843,
+            "total_vote_stations": 259
+          }
+        ]
+      },
+      {
+        "prov_id": "SSK",
+        "total_registered_vote": 1168696,
+        "total_vote_stations": 2799,
+        "constituencies": [
+          {
+            "cons_id": "SSK_1",
+            "total_registered_vote": 132927,
+            "total_vote_stations": 287
+          },
+          {
+            "cons_id": "SSK_2",
+            "total_registered_vote": 128729,
+            "total_vote_stations": 286
+          },
+          {
+            "cons_id": "SSK_3",
+            "total_registered_vote": 128000,
+            "total_vote_stations": 290
+          },
+          {
+            "cons_id": "SSK_4",
+            "total_registered_vote": 122479,
+            "total_vote_stations": 241
+          },
+          {
+            "cons_id": "SSK_5",
+            "total_registered_vote": 127678,
+            "total_vote_stations": 243
+          },
+          {
+            "cons_id": "SSK_6",
+            "total_registered_vote": 128761,
+            "total_vote_stations": 312
+          },
+          {
+            "cons_id": "SSK_7",
+            "total_registered_vote": 127528,
+            "total_vote_stations": 340
+          },
+          {
+            "cons_id": "SSK_8",
+            "total_registered_vote": 133339,
+            "total_vote_stations": 378
+          },
+          {
+            "cons_id": "SSK_9",
+            "total_registered_vote": 139255,
+            "total_vote_stations": 422
+          }
+        ]
+      },
+      {
+        "prov_id": "UBN",
+        "total_registered_vote": 1497799,
+        "total_vote_stations": 3147,
+        "constituencies": [
+          {
+            "cons_id": "UBN_1",
+            "total_registered_vote": 132544,
+            "total_vote_stations": 246
+          },
+          {
+            "cons_id": "UBN_2",
+            "total_registered_vote": 136569,
+            "total_vote_stations": 285
+          },
+          {
+            "cons_id": "UBN_3",
+            "total_registered_vote": 139753,
+            "total_vote_stations": 333
+          },
+          {
+            "cons_id": "UBN_4",
+            "total_registered_vote": 150372,
+            "total_vote_stations": 305
+          },
+          {
+            "cons_id": "UBN_5",
+            "total_registered_vote": 131064,
+            "total_vote_stations": 320
+          },
+          {
+            "cons_id": "UBN_6",
+            "total_registered_vote": 132041,
+            "total_vote_stations": 276
+          },
+          {
+            "cons_id": "UBN_7",
+            "total_registered_vote": 131286,
+            "total_vote_stations": 283
+          },
+          {
+            "cons_id": "UBN_8",
+            "total_registered_vote": 137335,
+            "total_vote_stations": 293
+          },
+          {
+            "cons_id": "UBN_9",
+            "total_registered_vote": 130180,
+            "total_vote_stations": 242
+          },
+          {
+            "cons_id": "UBN_10",
+            "total_registered_vote": 141283,
+            "total_vote_stations": 319
+          },
+          {
+            "cons_id": "UBN_11",
+            "total_registered_vote": 135372,
+            "total_vote_stations": 245
+          }
+        ]
+      },
+      {
+        "prov_id": "YST",
+        "total_registered_vote": 432508,
+        "total_vote_stations": 920,
+        "constituencies": [
+          {
+            "cons_id": "YST_1",
+            "total_registered_vote": 144704,
+            "total_vote_stations": 305
+          },
+          {
+            "cons_id": "YST_2",
+            "total_registered_vote": 141190,
+            "total_vote_stations": 305
+          },
+          {
+            "cons_id": "YST_3",
+            "total_registered_vote": 146614,
+            "total_vote_stations": 310
+          }
+        ]
+      },
+      {
+        "prov_id": "CPM",
+        "total_registered_vote": 904844,
+        "total_vote_stations": 1961,
+        "constituencies": [
+          {
+            "cons_id": "CPM_1",
+            "total_registered_vote": 129441,
+            "total_vote_stations": 261
+          },
+          {
+            "cons_id": "CPM_2",
+            "total_registered_vote": 133561,
+            "total_vote_stations": 343
+          },
+          {
+            "cons_id": "CPM_3",
+            "total_registered_vote": 127154,
+            "total_vote_stations": 306
+          },
+          {
+            "cons_id": "CPM_4",
+            "total_registered_vote": 121184,
+            "total_vote_stations": 230
+          },
+          {
+            "cons_id": "CPM_5",
+            "total_registered_vote": 132089,
+            "total_vote_stations": 266
+          },
+          {
+            "cons_id": "CPM_6",
+            "total_registered_vote": 134526,
+            "total_vote_stations": 270
+          },
+          {
+            "cons_id": "CPM_7",
+            "total_registered_vote": 126889,
+            "total_vote_stations": 285
+          }
+        ]
+      },
+      {
+        "prov_id": "ACR",
+        "total_registered_vote": 302708,
+        "total_vote_stations": 671,
+        "constituencies": [
+          {
+            "cons_id": "ACR_1",
+            "total_registered_vote": 145524,
+            "total_vote_stations": 321
+          },
+          {
+            "cons_id": "ACR_2",
+            "total_registered_vote": 157184,
+            "total_vote_stations": 350
+          }
+        ]
+      },
+      {
+        "prov_id": "BKN",
+        "total_registered_vote": 332602,
+        "total_vote_stations": 738,
+        "constituencies": [
+          {
+            "cons_id": "BKN_1",
+            "total_registered_vote": 104792,
+            "total_vote_stations": 216
+          },
+          {
+            "cons_id": "BKN_2",
+            "total_registered_vote": 109412,
+            "total_vote_stations": 265
+          },
+          {
+            "cons_id": "BKN_3",
+            "total_registered_vote": 118398,
+            "total_vote_stations": 257
+          }
+        ]
+      },
+      {
+        "prov_id": "NBP",
+        "total_registered_vote": 408642,
+        "total_vote_stations": 800,
+        "constituencies": [
+          {
+            "cons_id": "NBP_1",
+            "total_registered_vote": 139306,
+            "total_vote_stations": 269
+          },
+          {
+            "cons_id": "NBP_2",
+            "total_registered_vote": 136024,
+            "total_vote_stations": 269
+          },
+          {
+            "cons_id": "NBP_3",
+            "total_registered_vote": 133312,
+            "total_vote_stations": 262
+          }
+        ]
+      },
+      {
+        "prov_id": "KKN",
+        "total_registered_vote": 1458371,
+        "total_vote_stations": 2776,
+        "constituencies": [
+          {
+            "cons_id": "KKN_1",
+            "total_registered_vote": 128250,
+            "total_vote_stations": 177
+          },
+          {
+            "cons_id": "KKN_2",
+            "total_registered_vote": 138811,
+            "total_vote_stations": 177
+          },
+          {
+            "cons_id": "KKN_3",
+            "total_registered_vote": 132197,
+            "total_vote_stations": 264
+          },
+          {
+            "cons_id": "KKN_4",
+            "total_registered_vote": 130881,
+            "total_vote_stations": 254
+          },
+          {
+            "cons_id": "KKN_5",
+            "total_registered_vote": 131801,
+            "total_vote_stations": 264
+          },
+          {
+            "cons_id": "KKN_6",
+            "total_registered_vote": 129906,
+            "total_vote_stations": 255
+          },
+          {
+            "cons_id": "KKN_7",
+            "total_registered_vote": 132362,
+            "total_vote_stations": 275
+          },
+          {
+            "cons_id": "KKN_8",
+            "total_registered_vote": 139634,
+            "total_vote_stations": 255
+          },
+          {
+            "cons_id": "KKN_9",
+            "total_registered_vote": 127326,
+            "total_vote_stations": 283
+          },
+          {
+            "cons_id": "KKN_10",
+            "total_registered_vote": 135705,
+            "total_vote_stations": 307
+          },
+          {
+            "cons_id": "KKN_11",
+            "total_registered_vote": 131498,
+            "total_vote_stations": 265
+          }
+        ]
+      },
+      {
+        "prov_id": "UDN",
+        "total_registered_vote": 1258728,
+        "total_vote_stations": 2290,
+        "constituencies": [
+          {
+            "cons_id": "UDN_1",
+            "total_registered_vote": 129255,
+            "total_vote_stations": 222
+          },
+          {
+            "cons_id": "UDN_2",
+            "total_registered_vote": 132878,
+            "total_vote_stations": 203
+          },
+          {
+            "cons_id": "UDN_3",
+            "total_registered_vote": 125830,
+            "total_vote_stations": 242
+          },
+          {
+            "cons_id": "UDN_4",
+            "total_registered_vote": 126481,
+            "total_vote_stations": 218
+          },
+          {
+            "cons_id": "UDN_5",
+            "total_registered_vote": 119089,
+            "total_vote_stations": 228
+          },
+          {
+            "cons_id": "UDN_6",
+            "total_registered_vote": 126400,
+            "total_vote_stations": 241
+          },
+          {
+            "cons_id": "UDN_7",
+            "total_registered_vote": 128249,
+            "total_vote_stations": 240
+          },
+          {
+            "cons_id": "UDN_8",
+            "total_registered_vote": 122696,
+            "total_vote_stations": 219
+          },
+          {
+            "cons_id": "UDN_9",
+            "total_registered_vote": 124827,
+            "total_vote_stations": 235
+          },
+          {
+            "cons_id": "UDN_10",
+            "total_registered_vote": 123023,
+            "total_vote_stations": 242
+          }
+        ]
+      },
+      {
+        "prov_id": "CMI",
+        "total_registered_vote": 1348261,
+        "total_vote_stations": 2811,
+        "constituencies": [
+          {
+            "cons_id": "CMI_4",
+            "total_registered_vote": 144798,
+            "total_vote_stations": 241
+          },
+          {
+            "cons_id": "CMI_5",
+            "total_registered_vote": 133219,
+            "total_vote_stations": 294
+          },
+          {
+            "cons_id": "CMI_1",
+            "total_registered_vote": 137793,
+            "total_vote_stations": 233
+          },
+          {
+            "cons_id": "CMI_2",
+            "total_registered_vote": 143760,
+            "total_vote_stations": 282
+          },
+          {
+            "cons_id": "CMI_3",
+            "total_registered_vote": 139193,
+            "total_vote_stations": 290
+          },
+          {
+            "cons_id": "CMI_6",
+            "total_registered_vote": 127380,
+            "total_vote_stations": 288
+          },
+          {
+            "cons_id": "CMI_7",
+            "total_registered_vote": 132908,
+            "total_vote_stations": 288
+          },
+          {
+            "cons_id": "CMI_8",
+            "total_registered_vote": 141140,
+            "total_vote_stations": 325
+          },
+          {
+            "cons_id": "CMI_9",
+            "total_registered_vote": 126155,
+            "total_vote_stations": 292
+          },
+          {
+            "cons_id": "CMI_10",
+            "total_registered_vote": 121915,
+            "total_vote_stations": 278
+          }
+        ]
+      },
+      {
+        "prov_id": "LEI",
+        "total_registered_vote": 508131,
+        "total_vote_stations": 1042,
+        "constituencies": [
+          {
+            "cons_id": "LEI_1",
+            "total_registered_vote": 125703,
+            "total_vote_stations": 226
+          },
+          {
+            "cons_id": "LEI_2",
+            "total_registered_vote": 132976,
+            "total_vote_stations": 269
+          },
+          {
+            "cons_id": "LEI_3",
+            "total_registered_vote": 125561,
+            "total_vote_stations": 291
+          },
+          {
+            "cons_id": "LEI_4",
+            "total_registered_vote": 123891,
+            "total_vote_stations": 256
+          }
+        ]
+      },
+      {
+        "prov_id": "NKI",
+        "total_registered_vote": 413467,
+        "total_vote_stations": 836,
+        "constituencies": [
+          {
+            "cons_id": "NKI_1",
+            "total_registered_vote": 139496,
+            "total_vote_stations": 295
+          },
+          {
+            "cons_id": "NKI_2",
+            "total_registered_vote": 136455,
+            "total_vote_stations": 280
+          },
+          {
+            "cons_id": "NKI_3",
+            "total_registered_vote": 137516,
+            "total_vote_stations": 261
+          }
+        ]
+      },
+      {
+        "prov_id": "MKM",
+        "total_registered_vote": 769508,
+        "total_vote_stations": 1785,
+        "constituencies": [
+          {
+            "cons_id": "MKM_1",
+            "total_registered_vote": 123641,
+            "total_vote_stations": 235
+          },
+          {
+            "cons_id": "MKM_2",
+            "total_registered_vote": 128380,
+            "total_vote_stations": 332
+          },
+          {
+            "cons_id": "MKM_3",
+            "total_registered_vote": 130144,
+            "total_vote_stations": 284
+          },
+          {
+            "cons_id": "MKM_4",
+            "total_registered_vote": 126010,
+            "total_vote_stations": 290
+          },
+          {
+            "cons_id": "MKM_5",
+            "total_registered_vote": 133026,
+            "total_vote_stations": 341
+          },
+          {
+            "cons_id": "MKM_6",
+            "total_registered_vote": 128307,
+            "total_vote_stations": 303
+          }
+        ]
+      },
+      {
+        "prov_id": "RET",
+        "total_registered_vote": 1054374,
+        "total_vote_stations": 2555,
+        "constituencies": [
+          {
+            "cons_id": "RET_1",
+            "total_registered_vote": 126135,
+            "total_vote_stations": 261
+          },
+          {
+            "cons_id": "RET_2",
+            "total_registered_vote": 136719,
+            "total_vote_stations": 364
+          },
+          {
+            "cons_id": "RET_3",
+            "total_registered_vote": 133017,
+            "total_vote_stations": 300
+          },
+          {
+            "cons_id": "RET_4",
+            "total_registered_vote": 129528,
+            "total_vote_stations": 331
+          },
+          {
+            "cons_id": "RET_5",
+            "total_registered_vote": 133199,
+            "total_vote_stations": 344
+          },
+          {
+            "cons_id": "RET_6",
+            "total_registered_vote": 130129,
+            "total_vote_stations": 298
+          },
+          {
+            "cons_id": "RET_7",
+            "total_registered_vote": 134383,
+            "total_vote_stations": 318
+          },
+          {
+            "cons_id": "RET_8",
+            "total_registered_vote": 131264,
+            "total_vote_stations": 339
+          }
+        ]
+      },
+      {
+        "prov_id": "KSN",
+        "total_registered_vote": 791204,
+        "total_vote_stations": 1699,
+        "constituencies": [
+          {
+            "cons_id": "KSN_1",
+            "total_registered_vote": 131448,
+            "total_vote_stations": 282
+          },
+          {
+            "cons_id": "KSN_2",
+            "total_registered_vote": 126190,
+            "total_vote_stations": 263
+          },
+          {
+            "cons_id": "KSN_3",
+            "total_registered_vote": 124254,
+            "total_vote_stations": 265
+          },
+          {
+            "cons_id": "KSN_4",
+            "total_registered_vote": 136372,
+            "total_vote_stations": 308
+          },
+          {
+            "cons_id": "KSN_5",
+            "total_registered_vote": 137298,
+            "total_vote_stations": 289
+          },
+          {
+            "cons_id": "KSN_6",
+            "total_registered_vote": 135642,
+            "total_vote_stations": 292
+          }
+        ]
+      },
+      {
+        "prov_id": "SNK",
+        "total_registered_vote": 919997,
+        "total_vote_stations": 1710,
+        "constituencies": [
+          {
+            "cons_id": "SNK_1",
+            "total_registered_vote": 133910,
+            "total_vote_stations": 232
+          },
+          {
+            "cons_id": "SNK_2",
+            "total_registered_vote": 131926,
+            "total_vote_stations": 257
+          },
+          {
+            "cons_id": "SNK_3",
+            "total_registered_vote": 134035,
+            "total_vote_stations": 258
+          },
+          {
+            "cons_id": "SNK_4",
+            "total_registered_vote": 128385,
+            "total_vote_stations": 253
+          },
+          {
+            "cons_id": "SNK_5",
+            "total_registered_vote": 129748,
+            "total_vote_stations": 225
+          },
+          {
+            "cons_id": "SNK_6",
+            "total_registered_vote": 130056,
+            "total_vote_stations": 235
+          },
+          {
+            "cons_id": "SNK_7",
+            "total_registered_vote": 131937,
+            "total_vote_stations": 250
+          }
+        ]
+      },
+      {
+        "prov_id": "NPM",
+        "total_registered_vote": 573695,
+        "total_vote_stations": 1187,
+        "constituencies": [
+          {
+            "cons_id": "NPM_1",
+            "total_registered_vote": 143587,
+            "total_vote_stations": 287
+          },
+          {
+            "cons_id": "NPM_2",
+            "total_registered_vote": 142901,
+            "total_vote_stations": 294
+          },
+          {
+            "cons_id": "NPM_3",
+            "total_registered_vote": 142411,
+            "total_vote_stations": 291
+          },
+          {
+            "cons_id": "NPM_4",
+            "total_registered_vote": 144796,
+            "total_vote_stations": 315
+          }
+        ]
+      },
+      {
+        "prov_id": "MDH",
+        "total_registered_vote": 280339,
+        "total_vote_stations": 615,
+        "constituencies": [
+          {
+            "cons_id": "MDH_1",
+            "total_registered_vote": 141841,
+            "total_vote_stations": 285
+          },
+          {
+            "cons_id": "MDH_2",
+            "total_registered_vote": 138498,
+            "total_vote_stations": 330
+          }
+        ]
+      },
+      {
+        "prov_id": "LPN",
+        "total_registered_vote": 333891,
+        "total_vote_stations": 704,
+        "constituencies": [
+          {
+            "cons_id": "LPN_1",
+            "total_registered_vote": 171262,
+            "total_vote_stations": 333
+          },
+          {
+            "cons_id": "LPN_2",
+            "total_registered_vote": 162629,
+            "total_vote_stations": 371
+          }
+        ]
+      },
+      {
+        "prov_id": "LPG",
+        "total_registered_vote": 602277,
+        "total_vote_stations": 1246,
+        "constituencies": [
+          {
+            "cons_id": "LPG_1",
+            "total_registered_vote": 146326,
+            "total_vote_stations": 291
+          },
+          {
+            "cons_id": "LPG_2",
+            "total_registered_vote": 150940,
+            "total_vote_stations": 344
+          },
+          {
+            "cons_id": "LPG_3",
+            "total_registered_vote": 147220,
+            "total_vote_stations": 276
+          },
+          {
+            "cons_id": "LPG_4",
+            "total_registered_vote": 157791,
+            "total_vote_stations": 335
+          }
+        ]
+      },
+      {
+        "prov_id": "UTT",
+        "total_registered_vote": 366697,
+        "total_vote_stations": 771,
+        "constituencies": [
+          {
+            "cons_id": "UTT_1",
+            "total_registered_vote": 118173,
+            "total_vote_stations": 236
+          },
+          {
+            "cons_id": "UTT_2",
+            "total_registered_vote": 125041,
+            "total_vote_stations": 288
+          },
+          {
+            "cons_id": "UTT_3",
+            "total_registered_vote": 123483,
+            "total_vote_stations": 247
+          }
+        ]
+      },
+      {
+        "prov_id": "PRE",
+        "total_registered_vote": 360150,
+        "total_vote_stations": 793,
+        "constituencies": [
+          {
+            "cons_id": "PRE_1",
+            "total_registered_vote": 122115,
+            "total_vote_stations": 255
+          },
+          {
+            "cons_id": "PRE_2",
+            "total_registered_vote": 116303,
+            "total_vote_stations": 277
+          },
+          {
+            "cons_id": "PRE_3",
+            "total_registered_vote": 121732,
+            "total_vote_stations": 261
+          }
+        ]
+      },
+      {
+        "prov_id": "NAN",
+        "total_registered_vote": 389276,
+        "total_vote_stations": 948,
+        "constituencies": [
+          {
+            "cons_id": "NAN_1",
+            "total_registered_vote": 139889,
+            "total_vote_stations": 298
+          },
+          {
+            "cons_id": "NAN_2",
+            "total_registered_vote": 129646,
+            "total_vote_stations": 350
+          },
+          {
+            "cons_id": "NAN_3",
+            "total_registered_vote": 119741,
+            "total_vote_stations": 300
+          }
+        ]
+      },
+      {
+        "prov_id": "PYO",
+        "total_registered_vote": 383153,
+        "total_vote_stations": 871,
+        "constituencies": [
+          {
+            "cons_id": "PYO_1",
+            "total_registered_vote": 124910,
+            "total_vote_stations": 279
+          },
+          {
+            "cons_id": "PYO_2",
+            "total_registered_vote": 127913,
+            "total_vote_stations": 292
+          },
+          {
+            "cons_id": "PYO_3",
+            "total_registered_vote": 130330,
+            "total_vote_stations": 300
+          }
+        ]
+      },
+      {
+        "prov_id": "CRI",
+        "total_registered_vote": 948989,
+        "total_vote_stations": 2030,
+        "constituencies": [
+          {
+            "cons_id": "CRI_1",
+            "total_registered_vote": 141662,
+            "total_vote_stations": 241
+          },
+          {
+            "cons_id": "CRI_2",
+            "total_registered_vote": 132701,
+            "total_vote_stations": 264
+          },
+          {
+            "cons_id": "CRI_3",
+            "total_registered_vote": 139926,
+            "total_vote_stations": 323
+          },
+          {
+            "cons_id": "CRI_4",
+            "total_registered_vote": 141667,
+            "total_vote_stations": 367
+          },
+          {
+            "cons_id": "CRI_5",
+            "total_registered_vote": 132060,
+            "total_vote_stations": 297
+          },
+          {
+            "cons_id": "CRI_6",
+            "total_registered_vote": 126632,
+            "total_vote_stations": 242
+          },
+          {
+            "cons_id": "CRI_7",
+            "total_registered_vote": 134341,
+            "total_vote_stations": 296
+          }
+        ]
+      },
+      {
+        "prov_id": "MSN",
+        "total_registered_vote": 185172,
+        "total_vote_stations": 470,
+        "constituencies": [
+          {
+            "cons_id": "MSN_1",
+            "total_registered_vote": 89158,
+            "total_vote_stations": 242
+          },
+          {
+            "cons_id": "MSN_2",
+            "total_registered_vote": 96014,
+            "total_vote_stations": 228
+          }
+        ]
+      },
+      {
+        "prov_id": "NSN",
+        "total_registered_vote": 838251,
+        "total_vote_stations": 1643,
+        "constituencies": [
+          {
+            "cons_id": "NSN_1",
+            "total_registered_vote": 138721,
+            "total_vote_stations": 231
+          },
+          {
+            "cons_id": "NSN_2",
+            "total_registered_vote": 137003,
+            "total_vote_stations": 272
+          },
+          {
+            "cons_id": "NSN_3",
+            "total_registered_vote": 146633,
+            "total_vote_stations": 308
+          },
+          {
+            "cons_id": "NSN_4",
+            "total_registered_vote": 139645,
+            "total_vote_stations": 282
+          },
+          {
+            "cons_id": "NSN_5",
+            "total_registered_vote": 139426,
+            "total_vote_stations": 290
+          },
+          {
+            "cons_id": "NSN_6",
+            "total_registered_vote": 136823,
+            "total_vote_stations": 260
+          }
+        ]
+      },
+      {
+        "prov_id": "UTI",
+        "total_registered_vote": 261841,
+        "total_vote_stations": 649,
+        "constituencies": [
+          {
+            "cons_id": "UTI_1",
+            "total_registered_vote": 127283,
+            "total_vote_stations": 340
+          },
+          {
+            "cons_id": "UTI_2",
+            "total_registered_vote": 134558,
+            "total_vote_stations": 309
+          }
+        ]
+      },
+      {
+        "prov_id": "KPT",
+        "total_registered_vote": 569706,
+        "total_vote_stations": 1180,
+        "constituencies": [
+          {
+            "cons_id": "KPT_1",
+            "total_registered_vote": 145121,
+            "total_vote_stations": 276
+          },
+          {
+            "cons_id": "KPT_2",
+            "total_registered_vote": 147920,
+            "total_vote_stations": 320
+          },
+          {
+            "cons_id": "KPT_3",
+            "total_registered_vote": 137789,
+            "total_vote_stations": 283
+          },
+          {
+            "cons_id": "KPT_4",
+            "total_registered_vote": 138876,
+            "total_vote_stations": 301
+          }
+        ]
+      },
+      {
+        "prov_id": "TAK",
+        "total_registered_vote": 415314,
+        "total_vote_stations": 704,
+        "constituencies": [
+          {
+            "cons_id": "TAK_1",
+            "total_registered_vote": 150617,
+            "total_vote_stations": 272
+          },
+          {
+            "cons_id": "TAK_2",
+            "total_registered_vote": 129817,
+            "total_vote_stations": 200
+          },
+          {
+            "cons_id": "TAK_3",
+            "total_registered_vote": 134880,
+            "total_vote_stations": 232
+          }
+        ]
+      },
+      {
+        "prov_id": "STI",
+        "total_registered_vote": 477497,
+        "total_vote_stations": 994,
+        "constituencies": [
+          {
+            "cons_id": "STI_1",
+            "total_registered_vote": 118292,
+            "total_vote_stations": 246
+          },
+          {
+            "cons_id": "STI_2",
+            "total_registered_vote": 118323,
+            "total_vote_stations": 255
+          },
+          {
+            "cons_id": "STI_3",
+            "total_registered_vote": 120591,
+            "total_vote_stations": 240
+          },
+          {
+            "cons_id": "STI_4",
+            "total_registered_vote": 120291,
+            "total_vote_stations": 253
+          }
+        ]
+      },
+      {
+        "prov_id": "PLK",
+        "total_registered_vote": 690652,
+        "total_vote_stations": 1352,
+        "constituencies": [
+          {
+            "cons_id": "PLK_1",
+            "total_registered_vote": 139505,
+            "total_vote_stations": 219
+          },
+          {
+            "cons_id": "PLK_2",
+            "total_registered_vote": 147454,
+            "total_vote_stations": 283
+          },
+          {
+            "cons_id": "PLK_3",
+            "total_registered_vote": 142882,
+            "total_vote_stations": 275
+          },
+          {
+            "cons_id": "PLK_4",
+            "total_registered_vote": 128190,
+            "total_vote_stations": 282
+          },
+          {
+            "cons_id": "PLK_5",
+            "total_registered_vote": 132621,
+            "total_vote_stations": 293
+          }
+        ]
+      },
+      {
+        "prov_id": "PCT",
+        "total_registered_vote": 427543,
+        "total_vote_stations": 1016,
+        "constituencies": [
+          {
+            "cons_id": "PCT_1",
+            "total_registered_vote": 145533,
+            "total_vote_stations": 306
+          },
+          {
+            "cons_id": "PCT_2",
+            "total_registered_vote": 140346,
+            "total_vote_stations": 354
+          },
+          {
+            "cons_id": "PCT_3",
+            "total_registered_vote": 141664,
+            "total_vote_stations": 356
+          }
+        ]
+      },
+      {
+        "prov_id": "PNB",
+        "total_registered_vote": 783341,
+        "total_vote_stations": 1719,
+        "constituencies": [
+          {
+            "cons_id": "PNB_1",
+            "total_registered_vote": 131142,
+            "total_vote_stations": 240
+          },
+          {
+            "cons_id": "PNB_2",
+            "total_registered_vote": 131081,
+            "total_vote_stations": 289
+          },
+          {
+            "cons_id": "PNB_3",
+            "total_registered_vote": 126659,
+            "total_vote_stations": 297
+          },
+          {
+            "cons_id": "PNB_4",
+            "total_registered_vote": 126127,
+            "total_vote_stations": 294
+          },
+          {
+            "cons_id": "PNB_5",
+            "total_registered_vote": 133038,
+            "total_vote_stations": 285
+          },
+          {
+            "cons_id": "PNB_6",
+            "total_registered_vote": 135294,
+            "total_vote_stations": 314
+          }
+        ]
+      },
+      {
+        "prov_id": "RBR",
+        "total_registered_vote": 691526,
+        "total_vote_stations": 1167,
+        "constituencies": [
+          {
+            "cons_id": "RBR_1",
+            "total_registered_vote": 140137,
+            "total_vote_stations": 241
+          },
+          {
+            "cons_id": "RBR_2",
+            "total_registered_vote": 136101,
+            "total_vote_stations": 238
+          },
+          {
+            "cons_id": "RBR_3",
+            "total_registered_vote": 141093,
+            "total_vote_stations": 245
+          },
+          {
+            "cons_id": "RBR_4",
+            "total_registered_vote": 140248,
+            "total_vote_stations": 208
+          },
+          {
+            "cons_id": "RBR_5",
+            "total_registered_vote": 133947,
+            "total_vote_stations": 235
+          }
+        ]
+      },
+      {
+        "prov_id": "KRI",
+        "total_registered_vote": 657286,
+        "total_vote_stations": 1088,
+        "constituencies": [
+          {
+            "cons_id": "KRI_1",
+            "total_registered_vote": 133196,
+            "total_vote_stations": 188
+          },
+          {
+            "cons_id": "KRI_2",
+            "total_registered_vote": 131663,
+            "total_vote_stations": 210
+          },
+          {
+            "cons_id": "KRI_3",
+            "total_registered_vote": 136011,
+            "total_vote_stations": 227
+          },
+          {
+            "cons_id": "KRI_4",
+            "total_registered_vote": 133796,
+            "total_vote_stations": 268
+          },
+          {
+            "cons_id": "KRI_5",
+            "total_registered_vote": 122620,
+            "total_vote_stations": 195
+          }
+        ]
+      },
+      {
+        "prov_id": "SPB",
+        "total_registered_vote": 677735,
+        "total_vote_stations": 1277,
+        "constituencies": [
+          {
+            "cons_id": "SPB_1",
+            "total_registered_vote": 135381,
+            "total_vote_stations": 231
+          },
+          {
+            "cons_id": "SPB_2",
+            "total_registered_vote": 129576,
+            "total_vote_stations": 247
+          },
+          {
+            "cons_id": "SPB_3",
+            "total_registered_vote": 130523,
+            "total_vote_stations": 260
+          },
+          {
+            "cons_id": "SPB_4",
+            "total_registered_vote": 137456,
+            "total_vote_stations": 282
+          },
+          {
+            "cons_id": "SPB_5",
+            "total_registered_vote": 144799,
+            "total_vote_stations": 257
+          }
+        ]
+      },
+      {
+        "prov_id": "NPT",
+        "total_registered_vote": 756871,
+        "total_vote_stations": 1287,
+        "constituencies": [
+          {
+            "cons_id": "NPT_1",
+            "total_registered_vote": 129731,
+            "total_vote_stations": 215
+          },
+          {
+            "cons_id": "NPT_2",
+            "total_registered_vote": 120935,
+            "total_vote_stations": 207
+          },
+          {
+            "cons_id": "NPT_3",
+            "total_registered_vote": 119352,
+            "total_vote_stations": 231
+          },
+          {
+            "cons_id": "NPT_4",
+            "total_registered_vote": 128771,
+            "total_vote_stations": 248
+          },
+          {
+            "cons_id": "NPT_5",
+            "total_registered_vote": 131195,
+            "total_vote_stations": 198
+          },
+          {
+            "cons_id": "NPT_6",
+            "total_registered_vote": 126887,
+            "total_vote_stations": 188
+          }
+        ]
+      },
+      {
+        "prov_id": "SKN",
+        "total_registered_vote": 462724,
+        "total_vote_stations": 666,
+        "constituencies": [
+          {
+            "cons_id": "SKN_1",
+            "total_registered_vote": 119393,
+            "total_vote_stations": 169
+          },
+          {
+            "cons_id": "SKN_2",
+            "total_registered_vote": 119061,
+            "total_vote_stations": 161
+          },
+          {
+            "cons_id": "SKN_3",
+            "total_registered_vote": 111965,
+            "total_vote_stations": 135
+          },
+          {
+            "cons_id": "SKN_4",
+            "total_registered_vote": 112305,
+            "total_vote_stations": 201
+          }
+        ]
+      },
+      {
+        "prov_id": "SKM",
+        "total_registered_vote": 156265,
+        "total_vote_stations": 266,
+        "constituencies": [
+          {
+            "cons_id": "SKM_1",
+            "total_registered_vote": 156265,
+            "total_vote_stations": 266
+          }
+        ]
+      },
+      {
+        "prov_id": "PBI",
+        "total_registered_vote": 396388,
+        "total_vote_stations": 770,
+        "constituencies": [
+          {
+            "cons_id": "PBI_1",
+            "total_registered_vote": 125505,
+            "total_vote_stations": 238
+          },
+          {
+            "cons_id": "PBI_2",
+            "total_registered_vote": 139326,
+            "total_vote_stations": 253
+          },
+          {
+            "cons_id": "PBI_3",
+            "total_registered_vote": 131557,
+            "total_vote_stations": 279
+          }
+        ]
+      },
+      {
+        "prov_id": "PKN",
+        "total_registered_vote": 438184,
+        "total_vote_stations": 735,
+        "constituencies": [
+          {
+            "cons_id": "PKN_1",
+            "total_registered_vote": 152840,
+            "total_vote_stations": 255
+          },
+          {
+            "cons_id": "PKN_2",
+            "total_registered_vote": 146369,
+            "total_vote_stations": 225
+          },
+          {
+            "cons_id": "PKN_3",
+            "total_registered_vote": 138975,
+            "total_vote_stations": 255
+          }
+        ]
+      },
+      {
+        "prov_id": "NST",
+        "total_registered_vote": 1231806,
+        "total_vote_stations": 2264,
+        "constituencies": [
+          {
+            "cons_id": "NST_1",
+            "total_registered_vote": 132977,
+            "total_vote_stations": 221
+          },
+          {
+            "cons_id": "NST_2",
+            "total_registered_vote": 141830,
+            "total_vote_stations": 261
+          },
+          {
+            "cons_id": "NST_3",
+            "total_registered_vote": 133623,
+            "total_vote_stations": 321
+          },
+          {
+            "cons_id": "NST_4",
+            "total_registered_vote": 135857,
+            "total_vote_stations": 230
+          },
+          {
+            "cons_id": "NST_5",
+            "total_registered_vote": 140284,
+            "total_vote_stations": 235
+          },
+          {
+            "cons_id": "NST_6",
+            "total_registered_vote": 134534,
+            "total_vote_stations": 248
+          },
+          {
+            "cons_id": "NST_7",
+            "total_registered_vote": 136717,
+            "total_vote_stations": 260
+          },
+          {
+            "cons_id": "NST_8",
+            "total_registered_vote": 136225,
+            "total_vote_stations": 228
+          },
+          {
+            "cons_id": "NST_9",
+            "total_registered_vote": 139759,
+            "total_vote_stations": 260
+          }
+        ]
+      },
+      {
+        "prov_id": "KBI",
+        "total_registered_vote": 370578,
+        "total_vote_stations": 650,
+        "constituencies": [
+          {
+            "cons_id": "KBI_1",
+            "total_registered_vote": 128642,
+            "total_vote_stations": 213
+          },
+          {
+            "cons_id": "KBI_2",
+            "total_registered_vote": 117651,
+            "total_vote_stations": 207
+          },
+          {
+            "cons_id": "KBI_3",
+            "total_registered_vote": 124285,
+            "total_vote_stations": 230
+          }
+        ]
+      },
+      {
+        "prov_id": "PNA",
+        "total_registered_vote": 211116,
+        "total_vote_stations": 392,
+        "constituencies": [
+          {
+            "cons_id": "PNA_1",
+            "total_registered_vote": 100343,
+            "total_vote_stations": 203
+          },
+          {
+            "cons_id": "PNA_2",
+            "total_registered_vote": 110773,
+            "total_vote_stations": 189
+          }
+        ]
+      },
+      {
+        "prov_id": "PKT",
+        "total_registered_vote": 330148,
+        "total_vote_stations": 464,
+        "constituencies": [
+          {
+            "cons_id": "PKT_1",
+            "total_registered_vote": 103980,
+            "total_vote_stations": 145
+          },
+          {
+            "cons_id": "PKT_2",
+            "total_registered_vote": 108376,
+            "total_vote_stations": 148
+          },
+          {
+            "cons_id": "PKT_3",
+            "total_registered_vote": 117792,
+            "total_vote_stations": 171
+          }
+        ]
+      },
+      {
+        "prov_id": "SNI",
+        "total_registered_vote": 847406,
+        "total_vote_stations": 1507,
+        "constituencies": [
+          {
+            "cons_id": "SNI_1",
+            "total_registered_vote": 117090,
+            "total_vote_stations": 167
+          },
+          {
+            "cons_id": "SNI_2",
+            "total_registered_vote": 119683,
+            "total_vote_stations": 212
+          },
+          {
+            "cons_id": "SNI_3",
+            "total_registered_vote": 120055,
+            "total_vote_stations": 226
+          },
+          {
+            "cons_id": "SNI_4",
+            "total_registered_vote": 123380,
+            "total_vote_stations": 234
+          },
+          {
+            "cons_id": "SNI_5",
+            "total_registered_vote": 121866,
+            "total_vote_stations": 223
+          },
+          {
+            "cons_id": "SNI_6",
+            "total_registered_vote": 125055,
+            "total_vote_stations": 245
+          },
+          {
+            "cons_id": "SNI_7",
+            "total_registered_vote": 120277,
+            "total_vote_stations": 200
+          }
+        ]
+      },
+      {
+        "prov_id": "RNG",
+        "total_registered_vote": 143314,
+        "total_vote_stations": 244,
+        "constituencies": [
+          {
+            "cons_id": "RNG_1",
+            "total_registered_vote": 143314,
+            "total_vote_stations": 244
+          }
+        ]
+      },
+      {
+        "prov_id": "CPN",
+        "total_registered_vote": 409631,
+        "total_vote_stations": 817,
+        "constituencies": [
+          {
+            "cons_id": "CPN_1",
+            "total_registered_vote": 137056,
+            "total_vote_stations": 261
+          },
+          {
+            "cons_id": "CPN_2",
+            "total_registered_vote": 136820,
+            "total_vote_stations": 271
+          },
+          {
+            "cons_id": "CPN_3",
+            "total_registered_vote": 135755,
+            "total_vote_stations": 285
+          }
+        ]
+      },
+      {
+        "prov_id": "SKA",
+        "total_registered_vote": 1122947,
+        "total_vote_stations": 1925,
+        "constituencies": [
+          {
+            "cons_id": "SKA_1",
+            "total_registered_vote": 128331,
+            "total_vote_stations": 199
+          },
+          {
+            "cons_id": "SKA_2",
+            "total_registered_vote": 108657,
+            "total_vote_stations": 177
+          },
+          {
+            "cons_id": "SKA_3",
+            "total_registered_vote": 133721,
+            "total_vote_stations": 211
+          },
+          {
+            "cons_id": "SKA_4",
+            "total_registered_vote": 126692,
+            "total_vote_stations": 247
+          },
+          {
+            "cons_id": "SKA_5",
+            "total_registered_vote": 129751,
+            "total_vote_stations": 232
+          },
+          {
+            "cons_id": "SKA_6",
+            "total_registered_vote": 116166,
+            "total_vote_stations": 189
+          },
+          {
+            "cons_id": "SKA_7",
+            "total_registered_vote": 123182,
+            "total_vote_stations": 232
+          },
+          {
+            "cons_id": "SKA_8",
+            "total_registered_vote": 120448,
+            "total_vote_stations": 234
+          },
+          {
+            "cons_id": "SKA_9",
+            "total_registered_vote": 135999,
+            "total_vote_stations": 204
+          }
+        ]
+      },
+      {
+        "prov_id": "STN",
+        "total_registered_vote": 246426,
+        "total_vote_stations": 432,
+        "constituencies": [
+          {
+            "cons_id": "STN_1",
+            "total_registered_vote": 116873,
+            "total_vote_stations": 200
+          },
+          {
+            "cons_id": "STN_2",
+            "total_registered_vote": 129553,
+            "total_vote_stations": 232
+          }
+        ]
+      },
+      {
+        "prov_id": "TRG",
+        "total_registered_vote": 510403,
+        "total_vote_stations": 935,
+        "constituencies": [
+          {
+            "cons_id": "TRG_1",
+            "total_registered_vote": 124216,
+            "total_vote_stations": 227
+          },
+          {
+            "cons_id": "TRG_2",
+            "total_registered_vote": 132487,
+            "total_vote_stations": 272
+          },
+          {
+            "cons_id": "TRG_3",
+            "total_registered_vote": 125342,
+            "total_vote_stations": 224
+          },
+          {
+            "cons_id": "TRG_4",
+            "total_registered_vote": 128358,
+            "total_vote_stations": 212
+          }
+        ]
+      },
+      {
+        "prov_id": "PLG",
+        "total_registered_vote": 422693,
+        "total_vote_stations": 800,
+        "constituencies": [
+          {
+            "cons_id": "PLG_1",
+            "total_registered_vote": 134471,
+            "total_vote_stations": 260
+          },
+          {
+            "cons_id": "PLG_2",
+            "total_registered_vote": 144593,
+            "total_vote_stations": 279
+          },
+          {
+            "cons_id": "PLG_3",
+            "total_registered_vote": 143629,
+            "total_vote_stations": 261
+          }
+        ]
+      },
+      {
+        "prov_id": "YLA",
+        "total_registered_vote": 395865,
+        "total_vote_stations": 702,
+        "constituencies": [
+          {
+            "cons_id": "YLA_1",
+            "total_registered_vote": 130145,
+            "total_vote_stations": 219
+          },
+          {
+            "cons_id": "YLA_2",
+            "total_registered_vote": 134276,
+            "total_vote_stations": 238
+          },
+          {
+            "cons_id": "YLA_3",
+            "total_registered_vote": 131444,
+            "total_vote_stations": 245
+          }
+        ]
+      },
+      {
+        "prov_id": "NWT",
+        "total_registered_vote": 597044,
+        "total_vote_stations": 1076,
+        "constituencies": [
+          {
+            "cons_id": "NWT_1",
+            "total_registered_vote": 129176,
+            "total_vote_stations": 226
+          },
+          {
+            "cons_id": "NWT_2",
+            "total_registered_vote": 113221,
+            "total_vote_stations": 199
+          },
+          {
+            "cons_id": "NWT_3",
+            "total_registered_vote": 112323,
+            "total_vote_stations": 205
+          },
+          {
+            "cons_id": "NWT_4",
+            "total_registered_vote": 116961,
+            "total_vote_stations": 215
+          },
+          {
+            "cons_id": "NWT_5",
+            "total_registered_vote": 125363,
+            "total_vote_stations": 231
+          }
+        ]
+      }
+    ]
+  }
+}
