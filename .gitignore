@@ -1,0 +1,5 @@
+__pycache__/
+*.csv
+data/คะแนนเลือกตั้ง2566.xlsx
+data/ECT Constituencies/
+data/raw/

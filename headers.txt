@@ -1,0 +1,6 @@
+--- data/m_turnout_master.csv ---
+Read with tis-620
+['district_id', 'year', 'ballot_code', 'region', 'province', 'district_number', 'district_label', 'eligible_voters', 'voters_used', 'valid_votes', 'invalid_votes', 'no_vote', 'turnout_rate']
+--- data/m_referendum_master.csv ---
+Read with tis-620
+['district_id', 'ballot_code', 'yes_votes', 'no_votes', 'voters_used', 'year', 'region', 'province', 'district_number', 'district_label', 'eligible_voters', 'yes_rate', 'referendum_turnout_rate']

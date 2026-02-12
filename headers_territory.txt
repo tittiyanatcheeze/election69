@@ -1,0 +1,7 @@
+--- m_votes_master.csv ---
+['district_id', 'year', 'ballot_code', 'actor_type', 'party_id', 'party_name', 'votes', 'rank', 'region', 'province', 'district_number', 'district_label', 'voters_used', 'vote_share']
+
+--- คะแนนเลือกตั้ง2566.xlsx ---
+['จังหวัด', 'เขต', 'ผู้มีสิทธิ', 'ผู้มาใช้สิทธิ', 'บัตรดี', 'บัตรเสีย', 'บัตรไม่เลือกผู้ใด', 'key']
+Sample Row:
+{'จังหวัด': 'กระบี่', 'เขต': 1, 'ผู้มีสิทธิ': 122769, 'ผู้มาใช้สิทธิ': 102097, 'บัตรดี': 96392, 'บัตรเสีย': 3521, 'บัตรไม่เลือกผู้ใด': 2184, 'key': 'กระบี่-1'}
